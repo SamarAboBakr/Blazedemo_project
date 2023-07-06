@@ -1,0 +1,23 @@
+{
+    "userName" : "Samar AboBakr",
+    "address" : "Nasr City",
+    "city" : "Cairo",
+    "state" : "Nasr City",
+    "zipCode" : "12345",
+    "cardType": "Visa",
+    "creditCardNumber" : "6584894828412841876",
+    "month": "04",
+    "year" : "2022",
+    "nameOnCard" : "SAMAR ABO BAKR ABDELAZIZ",
+
+    "iuserName" : "Samar AboBakr",
+    "iaddress" : "Nasr City",
+    "icity" : "Cairo",
+    "istate" : "Nasr City",
+    "izipCode" : "12345",
+    "icardType": "Visa",
+    "icreditCardNumber" : "6584894828412841876",
+    "imonth": "04",
+    "iyear" : "2022",
+    "inameOnCard" : "SAMAR ABO BAKR ABDELAZIZ"
+}
